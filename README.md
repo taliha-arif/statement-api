@@ -14,7 +14,7 @@ NPM (v8+)
 Clone the repository:
 
 ```
-git clone https://github.com/statement-api/async-statement-api.git
+git clone https://github.com/taliha-arif/statement-api.git
 cd async-statement-api
 ```
 
